@@ -1,0 +1,7 @@
+# action.yml
+name: 'Shares Action'
+description: 'Github Actions Helper'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+
